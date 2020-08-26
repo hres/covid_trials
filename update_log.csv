@@ -3242,3 +3242,6 @@ request_time,request_url,response_code,response_size,last_update_local,last_upda
 20200826 07:20:52 GMT,https://www.who.int/ictrp/en/,200,73564,20200821,20200821,ICTRP
 20200826 08:20:51 GMT,https://clinicaltrials.gov/ct2/download_studies?cond=COVID-19&lupd_s=08%2F26%2F2020,404,21,20200825,,ClinicalTrials.gov
 20200826 08:20:53 GMT,https://www.who.int/ictrp/en/,200,73564,20200821,20200821,ICTRP
+20200826 09:20:52 GMT,https://clinicaltrials.gov/ct2/download_studies?cond=COVID-19&lupd_s=08%2F26%2F2020,404,21,20200825,,ClinicalTrials.gov
+20200826 09:20:53 GMT,https://www.who.int/ictrp/en/,200,73551,20200821,20200826,ICTRP
+20200826 09:21:00 GMT,https://www.who.int/ictrp/COVID19-web.csv,200,17708646,20200821,20200826,ICTRP
