@@ -103,6 +103,7 @@ ct_intervention_id,ct_intervention_raw,who_drug_substances,who_covid_trial_subst
 18588,300 mg EIDD-2801,"""No matches""","""No matches""","[""Drug""]",
 1562,Chlorpromazine Injection,"[""Chlorpromazine""]","""No matches""","[""Drug""]",
 812,Aviptadil by intravenous infusion + maximal intensive care,"[""Aviptadil""]","""No matches""","[""Drug""]",
+7349284,ConvP,"""No matches""","""No matches""","[""Biological""]",
 7349285,FFP,"""No matches""","""No matches""","[""Biological""]",
 6173152,Molnupiravir,"""No matches""","""No matches""","[""Drug""]",
 715,Yoga group,"""No matches""","""No matches""","[""Behavioral""]",
@@ -2724,4 +2725,3 @@ ct_intervention_id,ct_intervention_raw,who_drug_substances,who_covid_trial_subst
 1470,Levilimab,"""No matches""","""No matches""","[""Drug""]",
 51,Placebo,"""No matches""","""No matches""","[""Drug""]",
 587062,QuadraMune(TM),"""No matches""","""No matches""","[""Dietary Supplement""]",
-7349284,ConvP,"""No matches""","""No matches""","[""Biological""]",
