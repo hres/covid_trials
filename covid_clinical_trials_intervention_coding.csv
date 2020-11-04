@@ -2715,6 +2715,7 @@ ct_intervention_id,ct_intervention_raw,who_drug_substances,who_covid_trial_subst
 1055096,Gam-COVID-Vac,"""No matches""","""No matches""","[""Biological""]",
 64,placebo,"""No matches""","""No matches""","[""Other""]",
 1401,Lenzilumab,"[""Lenzilumab""]","""No matches""","[""Biological""]",
+51,Placebo,"""No matches""","""No matches""","[""Other""]",
 153,Remdesivir,"[""Remdesivir""]","""No matches""","[""Drug""]",
 1014,Tirofiban Injection,"[""Tirofiban""]","""No matches""","[""Drug""]",
 1019,Clopidogrel,"[""Clopidogrel""]","""No matches""","[""Drug""]",
@@ -2744,4 +2745,3 @@ ct_intervention_id,ct_intervention_raw,who_drug_substances,who_covid_trial_subst
 7349284,ConvP,"""No matches""","""No matches""","[""Biological""]",
 7349285,FFP,"""No matches""","""No matches""","[""Biological""]",
 6173152,Molnupiravir,"""No matches""","""No matches""","[""Drug""]",
-51,Placebo,"""No matches""","""No matches""","[""Drug""]",
