@@ -104,6 +104,7 @@ ct_intervention_id,ct_intervention_raw,who_drug_substances,who_covid_trial_subst
 1562,Chlorpromazine Injection,"[""Chlorpromazine""]","""No matches""","[""Drug""]",
 812,Aviptadil by intravenous infusion + maximal intensive care,"[""Aviptadil""]","""No matches""","[""Drug""]",
 8292314,Comparison between RT-qPCR and COVID-VIRO® results,"""No matches""","""No matches""","[""Diagnostic Test""]",
+7349284,ConvP,"""No matches""","""No matches""","[""Biological""]",
 7349285,FFP,"""No matches""","""No matches""","[""Biological""]",
 6173152,Molnupiravir,"""No matches""","""No matches""","[""Drug""]",
 715,Yoga group,"""No matches""","""No matches""","[""Behavioral""]",
@@ -2735,4 +2736,3 @@ ct_intervention_id,ct_intervention_raw,who_drug_substances,who_covid_trial_subst
 615,Hyperbaric oxygen therapy,"[""Oxygen""]","""No matches""","[""Device""]",
 355,Therapeutic Anticoagulation,"""No matches""","""No matches""","[""Drug""]",
 1023,Medical Ozone procedure,"[""Ozone""]","""No matches""","[""Procedure""]",
-7349284,ConvP,"""No matches""","""No matches""","[""Biological""]",
